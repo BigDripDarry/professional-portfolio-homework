@@ -12,3 +12,21 @@ nav a {
     color: black;
     margin: 10px;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    border-radius: 8px;
+    object-fit: contain;
+}
+
+#about-me {
+    display: flex;
+    flex-direction: row;
+}
+
+#aside-1 {
+    margin: 5%;
+}
