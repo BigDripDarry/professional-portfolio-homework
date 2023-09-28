@@ -7,3 +7,7 @@ header {
     justify-content: space-between;
 }
 
+nav a {
+    color: black;
+    margin: 10px;
+}
