@@ -34,6 +34,13 @@ img {
 }
 
 /* styling for work section */
-
+#work {
+    display: flex;
+    flex-direction: column;
+}
 
 /* styling for contact me section */
+#contact-me {
+    display: flex;
+    flex-direction: column;
+}
