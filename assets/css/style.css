@@ -1,1 +1,9 @@
-/* Header CSS elements */
+/* Header css */
+header {
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
