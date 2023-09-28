@@ -1,5 +1,4 @@
-/* styling for the css sections */
-
+/* styling for the header sections */
 header {
     background-color: blue;
     display: flex;
@@ -13,6 +12,7 @@ nav a {
     margin: 10px;
 }
 
+/* styling for my img */
 img {
     display: block;
     margin-left: auto;
@@ -22,11 +22,18 @@ img {
     object-fit: contain;
 }
 
+/* styling for my about me section */
 #about-me {
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 #aside-1 {
-    margin: 5%;
+    margin: 2.5%;
 }
+
+/* styling for work section */
+
+
+/* styling for contact me section */
