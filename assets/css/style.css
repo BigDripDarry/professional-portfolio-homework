@@ -13,14 +13,18 @@ nav a {
     margin: 10px;
 }
 
-/* styling for my img */
-img {
+/* styling for my images */
+.img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 200px;
     border-radius: 8px;
     object-fit: contain;
+}
+
+.port-pics {
+    width: 300px;
 }
 
 /* styling for my about me section */
