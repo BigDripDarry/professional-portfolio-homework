@@ -23,8 +23,14 @@ nav a {
     object-fit: contain;
 }
 
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
 .port-pics {
-    width: 300px;
+    width: 400px;
 }
 
 /* styling for my about me section */
