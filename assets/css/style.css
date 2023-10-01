@@ -1,4 +1,4 @@
-/* styling for the header sections */
+/* styling for the element sections */
 header {
     color: rgb(233, 211, 19);
     background-color: rgb(11, 11, 70);
@@ -13,6 +13,15 @@ nav a {
     margin: 10px;
 }
 
+footer {
+    color: rgb(233, 211, 19);
+    background-color: rgb(11, 11, 70);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
 /* styling for my images */
 .img {
     display: block;
@@ -24,7 +33,7 @@ nav a {
 }
 
 .port-pics {
-    width: 400px;
+    width: 450px;
 }
 
 .placeholder {
@@ -52,20 +61,28 @@ nav a {
     display: flex;
 }
 
-footer {
-    color: rgb(233, 211, 19);
-    background-color: rgb(11, 11, 70);
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-}
-
 /* styling for text coloring */
 .yellow {
     color: rgb(233, 211, 19);
 }
 
+.pink {
+    color: rgb(218, 1, 207);
+}
+
 a {
     text-decoration: none;
+}
+
+/* Media Queiries */
+@media screen and (max-width: 992px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 576px) {
+
 }
