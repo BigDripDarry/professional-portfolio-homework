@@ -23,12 +23,6 @@ nav a {
     object-fit: contain;
 }
 
-.bottom-right {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
-}
-
 .port-pics {
     width: 400px;
 }
@@ -47,11 +41,27 @@ nav a {
 /* styling for work section */
 #work {
     display: flex;
-    flex-direction: column;
 }
 
 /* styling for contact me section */
 #contact-me {
     display: flex;
-    flex-direction: column;
+}
+
+footer {
+    color: rgb(233, 211, 19);
+    background-color: rgb(11, 11, 70);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* styling for text coloring */
+.yellow {
+    color: rgb(233, 211, 19);
+}
+
+a {
+    text-decoration: none;
 }
