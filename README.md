@@ -17,7 +17,7 @@ No need of an installation! Just follow this link https://bigdripdarry.github.io
 
 ## Usage
 
-N/A
+Potential employers and recruiters can see what I have to offer with my deployed Professional Portfolio website! 
 
 ## Credits
 
